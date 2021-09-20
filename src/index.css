@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.box {
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding-left: 150px;
+  width: 400px;
+  margin: auto;
+}
+
+.part > button {
+ margin-right: 200px;
+ background-color: blue;
+}
+li {
+  margin-top: 40px;
+}
+li > button {
+  margin-left: 60px;
+  
+}
+.hide {
+  margin-bottom: 40px;
+  display: block;
+  margin-top: 40px;
+  margin-left: 90px;
+}
